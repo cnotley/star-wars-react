@@ -1,0 +1,13 @@
+.suggestion-item {
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    list-style-type: none;
+}
+
+.suggestion-item:hover {
+    background-color: #f1f1f1;
+}
